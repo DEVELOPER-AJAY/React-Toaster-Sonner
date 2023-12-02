@@ -1,0 +1,24 @@
+{
+  "name": "stackblitz-starters-3fxnnb",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@mui/material": "^5.14.19",
+    "@types/react": "18.2.39",
+    "@types/react-dom": "18.2.17",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "sonner": "1.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
